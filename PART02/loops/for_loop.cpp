@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main(){
+
+    int n;
+    cout<<"enter your NUMBER: ";
+    cin>>n;
+for (int i = 1; i<=n; i++)
+{
+    cout<<"RAJAT MEHRA"<<endl;
+}
+
+
+
+
+
+
+}
